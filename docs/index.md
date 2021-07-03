@@ -3,5 +3,5 @@ layout:  default
 title: Home
 ---
 
-Hello, world!
+# Hello, world!
 
